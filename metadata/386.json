@@ -1,0 +1,44 @@
+{
+  "name": "MegaRockVille #386",
+  "description": "A thousand residents living in a good old 8-bit village. Whether they are robots or humans, no one knows nowadays. There is no war or conflict here. We will live in peace for a long time to come.",
+  "image": "https://raw.githubusercontent.com/megarockville/asset-test/main/images/386.png",
+  "animation_url": "https://github.com/megarockville/asset-test/blob/main/music/2.mp3?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Skin"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Light Blue Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Simple"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Dark Violet"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Brown Buzzcut"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ]
+}

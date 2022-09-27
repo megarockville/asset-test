@@ -2,23 +2,23 @@
   "name": "MegaRockVille #176",
   "description": "A thousand residents living in a good old 8-bit village. Whether they are robots or humans, no one knows nowadays. There is no war or conflict here. We will live in peace for a long time to come.",
   "image": "https://raw.githubusercontent.com/megarockville/asset-test/main/images/176.png",
-  "animation_url": "https://github.com/megarockville/asset-test/blob/main/music/1.mp3?raw=true",
+  "animation_url": "https://github.com/megarockville/asset-test/blob/main/music/5.mp3?raw=true",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pastel Brown"
+      "value": "Music"
     },
     {
       "trait_type": "Body",
-      "value": "Yellowish"
+      "value": "Tan"
     },
     {
       "trait_type": "Shoes",
-      "value": "White"
+      "value": "Bare Feet"
     },
     {
       "trait_type": "Eyes",
-      "value": "Super Angry"
+      "value": "Blue"
     },
     {
       "trait_type": "Mouth",
@@ -26,19 +26,19 @@
     },
     {
       "trait_type": "Pants",
-      "value": "Purple Blue"
+      "value": "Dress"
     },
     {
       "trait_type": "Shirt",
-      "value": "Sleeveless Black"
+      "value": "Dress"
     },
     {
       "trait_type": "Hair",
-      "value": "Bald"
+      "value": "Long"
     },
     {
       "trait_type": "Hat",
-      "value": "Green Beanie"
+      "value": "Headphones"
     }
   ]
 }

@@ -6,39 +6,39 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Aqua"
+      "value": "Forest"
     },
     {
       "trait_type": "Body",
-      "value": "Yellowish"
+      "value": "Tan"
     },
     {
       "trait_type": "Shoes",
-      "value": "Dark Brown"
+      "value": "Bear"
     },
     {
       "trait_type": "Eyes",
-      "value": "Super Angry"
+      "value": "Black"
     },
     {
       "trait_type": "Mouth",
-      "value": "Surprised"
+      "value": "Simple"
     },
     {
       "trait_type": "Pants",
-      "value": "Brown"
+      "value": "Bear"
     },
     {
       "trait_type": "Shirt",
-      "value": "Aqua"
+      "value": "Bear"
     },
     {
       "trait_type": "Hair",
-      "value": "Ginger One Side"
+      "value": "Bald"
     },
     {
       "trait_type": "Hat",
-      "value": "None"
+      "value": "Bear"
     }
   ]
 }

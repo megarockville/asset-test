@@ -18,27 +18,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Blue"
+      "value": "Black"
     },
     {
       "trait_type": "Mouth",
-      "value": "Simple"
+      "value": "Smirk"
     },
     {
       "trait_type": "Pants",
-      "value": "Dark Violet"
+      "value": "Purple Blue"
     },
     {
       "trait_type": "Shirt",
-      "value": "Sleeveless White"
+      "value": "Black"
     },
     {
       "trait_type": "Hair",
-      "value": "Brown Buzzcut"
+      "value": "Brown"
     },
     {
       "trait_type": "Hat",
-      "value": "Green Cap"
+      "value": "Green Beanie"
     }
   ]
 }
